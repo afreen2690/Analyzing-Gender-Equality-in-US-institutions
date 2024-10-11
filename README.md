@@ -1,4 +1,4 @@
-# Analyzing-Gender-Equality-in-US-institutions
+# Analyzing Gender Equality in US institutions
 
 Overview
 This repository contains the artifacts and analysis conducted as part of a comprehensive project on data visualization and analytics. The project explores various tools and techniques, including Tableau, Power BI, Python, and machine learning models, to analyze and visualize datasets.
